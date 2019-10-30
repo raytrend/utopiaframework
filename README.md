@@ -14,6 +14,6 @@ Quick start
 -----------
 
 * Download the zip or git clone the project.
-* open in eclipse-php(maven plugin required)
+* open in eclipse(maven plugin required)
 * mvn install the projects.
 * Then you can use the framework in you web project.
