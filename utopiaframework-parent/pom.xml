@@ -45,7 +45,7 @@
 		<cglib.version>2.2</cglib.version>
 		<javassist.version>3.9.0.GA</javassist.version>
 		<javax.persistence.version>1.0</javax.persistence.version>
-		<commons.beanutils.version>1.8.3</commons.beanutils.version>
+		<commons.beanutils.version>1.9.2</commons.beanutils.version>
 		<commons.codec.version>1.6</commons.codec.version>
 		<commons.collections.version>3.2.1</commons.collections.version>
 		<commons.lang.version>[3.0,)</commons.lang.version>
