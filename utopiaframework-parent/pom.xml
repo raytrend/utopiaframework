@@ -60,7 +60,7 @@
 		<tomcat.version>[6.0.33]</tomcat.version>
 		<jstl.version>1.1.2</jstl.version>
 		<taglibs.version>1.1.2</taglibs.version>
-		<mysql.connector.version>5.1.17</mysql.connector.version>
+		<mysql.connector.version>8.0.28</mysql.connector.version>
 		<java.mail.version>1.4.3</java.mail.version>
 		<freemarker.version>2.3.15</freemarker.version>
 		<proxool.version>0.9.1</proxool.version>
